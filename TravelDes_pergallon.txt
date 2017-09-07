@@ -1,0 +1,12 @@
+"V1"
+"A" list(var = 1, n = 17, mean = 3.50147058823529, sd = 0.198577477841477, median = 3.49, trimmed = 3.49906666666667, mad = 0.22239, min = 3.179, max = 3.86, range = 0.681, skew = 0.119936195728273, kurtosis = -1.15547490303802, se = 0.0481621127064212)
+"B" list(var = 1, n = 20, mean = 3.47055, sd = 0.200131923595675, median = 3.43, trimmed = 3.467125, mad = 0.252042, min = 3.139, max = 3.89, range = 0.751, skew = 0.193379782216495, kurtosis = -0.86494066045295, se = 0.0447508585627724)
+"C" list(var = 1, n = 16, mean = 3.4338125, sd = 0.163962686303927, median = 3.39, trimmed = 3.44164285714286, mad = 0.1793946, min = 3.059, max = 3.699, range = 0.64, skew = -0.372686099097688, kurtosis = -0.468005304737481, se = 0.0409906715759818)
+"D" list(var = 1, n = 14, mean = 3.43264285714286, sd = 0.172645749860965, median = 3.385, trimmed = 3.43391666666667, mad = 0.14826, min = 3.13, max = 3.72, range = 0.59, skew = 0.183971304785116, kurtosis = -1.01243460146207, se = 0.0461415175187433)
+"E" list(var = 1, n = 2, mean = 3.479, sd = 0, median = 3.479, trimmed = 3.479, mad = 0, min = 3.479, max = 3.479, range = 0, skew = NaN, kurtosis = NaN, se = 0)
+"F" list(var = 1, n = 2, mean = 3.789, sd = 0.240416305603426, median = 3.789, trimmed = 3.789, mad = 0.252042, min = 3.619, max = 3.959, range = 0.34, skew = 0, kurtosis = -2.75, se = 0.17)
+"G" list(var = 1, n = 1, mean = 3.84, sd = NA, median = 3.84, trimmed = 3.84, mad = 0, min = 3.84, max = 3.84, range = 0, skew = NA, kurtosis = NA, se = NA)
+"H" list(var = 1, n = 1, mean = 3.39, sd = NA, median = 3.39, trimmed = 3.39, mad = 0, min = 3.39, max = 3.39, range = 0, skew = NA, kurtosis = NA, se = NA)
+"I" list(var = 1, n = 1, mean = 3.1, sd = NA, median = 3.1, trimmed = 3.1, mad = 0, min = 3.1, max = 3.1, range = 0, skew = NA, kurtosis = NA, se = NA)
+"J" list(var = 1, n = 1, mean = 3.38, sd = NA, median = 3.38, trimmed = 3.38, mad = 0, min = 3.38, max = 3.38, range = 0, skew = NA, kurtosis = NA, se = NA)
+"K" list(var = 1, n = 1, mean = 2.99, sd = NA, median = 2.99, trimmed = 2.99, mad = 0, min = 2.99, max = 2.99, range = 0, skew = NA, kurtosis = NA, se = NA)

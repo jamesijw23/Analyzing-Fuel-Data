@@ -1,0 +1,12 @@
+"V1"
+"A" list(var = 1, n = 17, mean = 3.58823529411765, sd = 2.42535625036333, median = 3, trimmed = 3.46666666666667, mad = 2.9652, min = 0, max = 9, range = 9, skew = 0.480134936763103, kurtosis = -0.816239446366783, se = 0.588235294117647)
+"B" list(var = 1, n = 20, mean = 7.35, sd = 3.29712793679271, median = 7, trimmed = 7, mad = 2.9652, min = 2, max = 16, range = 14, skew = 0.944759438381391, kurtosis = 0.471285128367673, se = 0.737260219718213)
+"C" list(var = 1, n = 16, mean = 4.5625, sd = 2.58118189982806, median = 4.5, trimmed = 4.5, mad = 3.7065, min = 1, max = 9, range = 8, skew = 0.107241085052248, kurtosis = -1.45783466789897, se = 0.645295474957015)
+"D" list(var = 1, n = 13, mean = 3.69230769230769, sd = 1.75045781557356, median = 3, trimmed = 3.45454545454545, mad = 1.4826, min = 2, max = 8, range = 6, skew = 1.12323791369945, kurtosis = 0.288642639537432, se = 0.48548964689132)
+"E" list(var = 1, n = 2, mean = 4.5, sd = 2.12132034355964, median = 4.5, trimmed = 4.5, mad = 2.2239, min = 3, max = 6, range = 3, skew = 0, kurtosis = -2.75, se = 1.5)
+"F" list(var = 1, n = 2, mean = 6.5, sd = 7.77817459305202, median = 6.5, trimmed = 6.5, mad = 8.1543, min = 1, max = 12, range = 11, skew = 0, kurtosis = -2.75, se = 5.5)
+"G" list(var = 1, n = 1, mean = 4, sd = NA, median = 4, trimmed = 4, mad = 0, min = 4, max = 4, range = 0, skew = NA, kurtosis = NA, se = NA)
+"H" list(var = 1, n = 1, mean = 1, sd = NA, median = 1, trimmed = 1, mad = 0, min = 1, max = 1, range = 0, skew = NA, kurtosis = NA, se = NA)
+"I" list(var = 1, n = 1, mean = 1, sd = NA, median = 1, trimmed = 1, mad = 0, min = 1, max = 1, range = 0, skew = NA, kurtosis = NA, se = NA)
+"J" list(var = 1, n = 1, mean = 3, sd = NA, median = 3, trimmed = 3, mad = 0, min = 3, max = 3, range = 0, skew = NA, kurtosis = NA, se = NA)
+"K" list(var = 1, n = 1, mean = 0, sd = NA, median = 0, trimmed = 0, mad = 0, min = 0, max = 0, range = 0, skew = NA, kurtosis = NA, se = NA)

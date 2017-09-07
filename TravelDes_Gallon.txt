@@ -1,0 +1,12 @@
+"V1"
+"A" list(var = 1, n = 17, mean = 9.96341176470588, sd = 1.6687559010691, median = 10.439, trimmed = 10.1030666666667, mad = 1.1682888, min = 6.169, max = 11.663, range = 5.494, skew = -1.12442134600186, kurtosis = -0.159236897406793, se = 0.404732755498863)
+"B" list(var = 1, n = 20, mean = 9.9876, sd = 1.32287244879825, median = 10.4555, trimmed = 10.2321875, mad = 0.593039999999999, min = 5.21, max = 11.226, range = 6.016, skew = -2.30360023567338, kurtosis = 5.6927738235209, se = 0.295803272107449)
+"C" list(var = 1, n = 16, mean = 9.660205625, sd = 1.66109305514158, median = 10.289, trimmed = 9.80244928571429, mad = 1.262218923, min = 5.76, max = 11.569, range = 5.809, skew = -0.870969623375229, kurtosis = -0.34389568025497, se = 0.415273263785395)
+"D" list(var = 1, n = 14, mean = 10.3590928571429, sd = 2.20369106743987, median = 11.3655, trimmed = 10.6310833333333, mad = 0.613796399999998, min = 5.4313, max = 12.023, range = 6.5917, skew = -1.41495998438611, kurtosis = 0.477301566100751, se = 0.588961211475296)
+"E" list(var = 1, n = 2, mean = 10.321, sd = 1.25299321626256, median = 10.321, trimmed = 10.321, mad = 1.3135836, min = 9.435, max = 11.207, range = 1.772, skew = -1.04408486201204e-15, kurtosis = -2.75, se = 0.886)
+"F" list(var = 1, n = 2, mean = 10.3355, sd = 0.506995562110755, median = 10.3355, trimmed = 10.3355, mad = 0.5315121, min = 9.977, max = 10.694, range = 0.717000000000001, skew = 2.63562108092665e-15, kurtosis = -2.75, se = 0.3585)
+"G" list(var = 1, n = 1, mean = 10.288, sd = NA, median = 10.288, trimmed = 10.288, mad = 0, min = 10.288, max = 10.288, range = 0, skew = NA, kurtosis = NA, se = NA)
+"H" list(var = 1, n = 1, mean = 8.85, sd = NA, median = 8.85, trimmed = 8.85, mad = 0, min = 8.85, max = 8.85, range = 0, skew = NA, kurtosis = NA, se = NA)
+"I" list(var = 1, n = 1, mean = 8.424, sd = NA, median = 8.424, trimmed = 8.424, mad = 0, min = 8.424, max = 8.424, range = 0, skew = NA, kurtosis = NA, se = NA)
+"J" list(var = 1, n = 1, mean = 6.226, sd = NA, median = 6.226, trimmed = 6.226, mad = 0, min = 6.226, max = 6.226, range = 0, skew = NA, kurtosis = NA, se = NA)
+"K" list(var = 1, n = 1, mean = 6.165, sd = NA, median = 6.165, trimmed = 6.165, mad = 0, min = 6.165, max = 6.165, range = 0, skew = NA, kurtosis = NA, se = NA)
